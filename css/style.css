@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div#mainWrapper{
+    padding: 80px 0px;
+}
+
+
+div.wrapper{
+    padding: 40px 30px;
+    box-shadow: 0px 0px 20px 2px black;
+    border-radius: 10px;
+    border-top: 5px solid orangered;
+    border-left: 5px solid orangered;
+}
+
+div#border{
+    border-top: 4px solid orangered;
+    margin-top: 30px;
+}
+
+#underWeight{
+    background-color: #87B1D9 !important;
+    border-radius: 7px;
+    font-size: 23px;
+}
+#normal{
+    background-color: #3DD365 !important;
+    border-radius: 7px;
+    font-size: 23px;
+}
+#overWeight{
+    background-color: #EEE133 !important;
+    border-radius: 7px;
+    font-size: 23px;
+}
+#obse{
+    background-color: #FD802E !important;
+    border-radius: 7px;
+    font-size: 23px;
+}
+#extremelyObse{
+    background-color: #F95353 !important;
+    border-radius: 7px;
+    font-size: 23px;
+}
+
